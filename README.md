@@ -56,6 +56,9 @@ To get started all you need to do is clone the repository and spin up the contai
 git clone https://github.com/dignezzz/wirehole-ui.git
 cd wirehole-ui
 nano docker-compose.yml
+
+#then run
+docker-compose up
 ```
 If you are using Raspberry Pi, please uncomment `#image: "mvance/unbound-rpi:latest"` and add comment to `image: "mvance/unbound:latest"`
 
