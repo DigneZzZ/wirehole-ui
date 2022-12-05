@@ -27,7 +27,8 @@ Visit my site: https://openode.ru
 
 ## UPDATE VERSION:
  Fixed problems with this type of errors:
- ![image](https://user-images.githubusercontent.com/50312583/205760317-5218668f-726a-4d0c-b34b-25d754e2538a.png)
+![image](https://user-images.githubusercontent.com/50312583/205760639-43649ffa-4dcd-45c0-b5a3-2cdaba0d17dc.png)
+
 
 
 ## Author
