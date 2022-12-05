@@ -25,6 +25,11 @@ Visit my site: https://openode.ru
 * Statistics for which clients are connected.
 * Gravatar support.
 
+## UPDATE VERSION:
+ Fixed problems with this type of errors:
+ ![image](https://user-images.githubusercontent.com/50312583/205760317-5218668f-726a-4d0c-b34b-25d754e2538a.png)
+
+
 ## Author
 
 👤 **Devin Stokes**
@@ -41,12 +46,7 @@ Visit my site: https://openode.ru
 
 Contributions, issues and feature requests are welcome!<br />Feel free to check [issues page](https://github.com/IAmStoxe/wirehole/issue). 
 
-## Show your support
 
-Give a ⭐ if this project helped you!
-
-<a href="https://www.buymeacoffee.com/stoxe" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-orange.png" alt="Buy Me A Coffee" style="height: 60px !important;width: 217px !important;" ></a>
- 
 ---
 
 ### Quickstart
