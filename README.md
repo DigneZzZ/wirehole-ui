@@ -9,6 +9,12 @@ Wirehole (UI) is added a Web UI for WireGuard Client Management. It use the Dock
 
 WireHole 
 
+##<b>This fork!</b>
+
+It's some editing docker project with fixed popular broblems.
+
+Visit my site: https://openode.ru 
+
 ## Features
 
 * All-in-one: WireGuard + Web UI + Adblock (via Pi-Hole) + DNS Caching (via Unbound)
@@ -25,6 +31,11 @@ WireHole
 
 * Twitter: [@DevinStokes](https://twitter.com/DevinStokes)
 * Github: [@IAmStoxe](https://github.com/IAmStoxe)
+
+##  Editor 
+👤 **Alexey K.**
+
+* Site: [OpeNode.ru](https://openode.ru)
 
 ## 🤝 Contributing
 
@@ -78,10 +89,14 @@ sudo curl -L "https://github.com/docker/compose/releases/download/1.26.2/docker-
     sudo chmod +x /usr/local/bin/docker-compose &&
     sudo ln -s /usr/local/bin/docker-compose /usr/bin/docker-compose
 
-# wirehole
-git clone https://github.com/10h30/wirehole-ui.git &&
-    cd wirehole &&
-    docker-compose up
+# wirehole clone and change the composer settings
+git clone https://github.com/dignezzz/wirehole-ui.git &&
+    cd wirehole-ui &&
+    nano docker-compose.yml 
+    
+    
+# Go Up Docker
+docker-compose up
 
 ```
 Change `WG_HOST=my.ddns.net` to your server's public address, e.g. `WG_HOST=vpn.mydomain.com`.
