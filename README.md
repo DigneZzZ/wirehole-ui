@@ -27,6 +27,11 @@ Visit my site: https://openode.ru
 
 ## UPDATE VERSION:
  Fixed problems with this type of errors:
+ ```bash
+unbound exited with code 1
+unbound  | chown: cannot access '/opt/unbound/etc/unbound/unbound.log': No such file or directory
+unbound  | [1669456916] unbound[1:0] warning: unbound is already running as pid 1.
+ ```
 ![image](https://user-images.githubusercontent.com/50312583/205760639-43649ffa-4dcd-45c0-b5a3-2cdaba0d17dc.png)
 
 
