@@ -17,6 +17,8 @@ It's some editing docker project with fixed popular broblems.
 
 Visit my site: https://openode.ru 
 
+Recomendation VPS Hosting with 10% Discount: 	[VDSina.ru](https://vdsina.ru/?partner=rwmhc7jbcg)
+
 ## Features
 
 * All-in-one: WireGuard + Web UI + Adblock (via Pi-Hole) + DNS Caching (via Unbound)
