@@ -68,7 +68,7 @@ cd wirehole-ui
 nano docker-compose.yml
 
 #then run
-docker-compose up
+docker-compose up -d
 ```
 If you are using Raspberry Pi, please uncomment `#image: "mvance/unbound-rpi:latest"` and add comment to `image: "mvance/unbound:latest"`
 
