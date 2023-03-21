@@ -1,3 +1,13 @@
+# NEW Docker WireGuard (DWG) PROJECT! https://github.com/DigneZzZ/ad-wireguard
+# https://openode.ru
+
+
+
+#
+#
+#
+
+
 # Whats new:
 ### 9.12.2022 - Updated wg-easy for last version of WireGuard
 ## What is this?
